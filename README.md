@@ -1,4 +1,4 @@
 # Backend & Server - ThePitStop
-by Luis Alfonso Acosta Ortiz
+© Luis Alfonso Acosta Ortiz. All Rights Reserved
 
 Frontend: 
